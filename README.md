@@ -3,7 +3,8 @@
 
 - Turas will be an application that allows provides users with local pubs in the area that they have yet to visit in the area. Users will be able to check off the pubs they have been to and view their progress. There will be achievements tied to visiting these pubs providing a fun and interactive aspect to the app.
 
-- Here's some pics of the POC
+- Here's some pictures of the POC
+![TurasPreview](https://imgur.com/otQqtgI.png)
 
 ## Commands
   - `npm run fix` - fix and format code based on eslint rules (TODO - Prettier integration)
