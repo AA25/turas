@@ -1,7 +1,7 @@
 ## Turas
 - This repo was created as a proof of concept for the Turas app (Ported over from AWS CodeCommit), the goal of the POC was to help get an understanding of how React Native works, Geolocation and integration with Google Maps.
 
-- Turas will be an application that allows provides users with local pubs in the area that they have yet to visit in the area. Users will be able to check off the pubs they have been to and view their progress. There will be achievements tied to visiting these pubs providing a fun and interactive aspect to the app.
+- Turas will be an application that allows provides users with local pubs in the area that they have yet to visit. Users will be able to check off the pubs they have been to and view their progress. There will be achievements tied to visiting these pubs providing a fun and interactive aspect to the app.
 
 - Here's some pictures of the POC
 ![TurasPreview](https://imgur.com/otQqtgI.png)
